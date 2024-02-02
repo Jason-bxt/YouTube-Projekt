@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   column-gap: 18px;
-  row-gap:50px;
+  row-gap:40px;
 }
  .thumb {
   width: 100%;
@@ -23,7 +23,7 @@
   .title {
       font-weight: bold;
       font-family: arial;
-      font-size: 19px;
+      font-size: 100%;
       margin-bottom: 12px;
   }
   .author, 
